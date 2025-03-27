@@ -1,0 +1,1 @@
+He creado el elemento raíz catálogo en el que uso 2 espacios de nombre como se indica en el enunciado (os y office). He creado tres elementos de cada uno como se requiere y en cada uno, he metido los 4 subelementos que se piden y en ellos se almacenan los datos de cada uno.
