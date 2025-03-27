@@ -10,7 +10,7 @@
     </os:software>
     <os:software>
         <os:nombre>Ubuntu</os:nombre>
-        <os:version>22.04</version>
+        <os:version>22.04</os:version>
         <os:desarrollador>Canonical</os:desarrollador>
         <os:url>https://ubuntu.com/</os:url>
     </os:software>
