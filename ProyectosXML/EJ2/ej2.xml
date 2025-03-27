@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<html>
+    <head>
+        <title>Book Review</title>
+    </head>
+    <body>
+        <h1>Reseña de Libros</h1> <!-- Se añade un título general -->
+        <h2>Introducción a XML</h2> <!-- Se usa h2 en vez de un título XML incorrecto -->
+        <table border="1"> <!-- Se añade un borde para mejor visualización -->
+            <tr align="center">
+                <th>Autor</th> <!-- Se usa <th> para los encabezados en lugar de <td> -->
+                <th>Precio</th>
+                <th>Páginas</th>
+                <th>Fecha</th>
+            </tr>
+            <tr align="left">
+                <td>Simon St. Laurent</td> <!-- Se eliminan las etiquetas XML y se deja el texto directamente -->
+                <td>31.98</td>
+                <td>352</td>
+                <td>1998/01</td>
+            </tr>
+        </table>
+    </body>
+</html>
