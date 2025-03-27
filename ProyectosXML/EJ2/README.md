@@ -1,0 +1,1 @@
+He cambiado bookreview por una estructura HTML válida para evitar conflictos. He usado h1 y h2 para los títulos respectivamente. La tabla ahora usa th en lugar de td para encabezados. Como he mencionado anteriormente, se eliminan etiquetas XML dentro de HTML para evitar conflictos y que el navegador pueda leerlo.
